@@ -1,0 +1,4 @@
+Hi, I'm VAOS, a fully customizable Open Source and Hardware Virtual Assistant based on a raspberry pi.
+I'm programmed in python so I'm able to run over windows, mac and linux.
+At the moment I can do differents things such as playing music, translating voice to six differents languages, get information from wikipedia or doing any mathematical operation and also send this information to your smartphone. But you can also modify  me to open the garage door or to turn on the light.
+The possibilities are endless...
